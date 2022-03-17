@@ -1,0 +1,38 @@
+#navbar_id {
+    background-color: #ADD8E6;
+    font-size: 15px;
+}
+
+#top-container {
+    color: white;
+    margin-top: 50px;
+    padding: 100px;
+    background-color: #084594;
+    height: 300px;
+    text-align: left;
+}
+
+input[type=submit] {
+    background: burlywood; 
+    border: none;
+    cursor:pointer;
+    border-radius: 5px;
+}
+
+#enter {
+    font-size: 24px;
+}
+
+#mid-container {
+    width: 100%;
+    margin-top: 40px;
+    height: 300px;
+}
+
+html,body {
+    height: 100%;
+}
+
+footer {
+    text-align: center;
+}
